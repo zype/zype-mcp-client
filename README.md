@@ -146,4 +146,4 @@ Add to `~/.gemini/settings.json`:
 
 ## License
 
-MIT
+Apache 2.0
