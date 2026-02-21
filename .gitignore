@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Environment (in case someone adds one)
+.env
+.env.local

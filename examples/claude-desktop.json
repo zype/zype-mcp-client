@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "zype": {
+      "command": "npx",
+      "args": ["-y", "@zype-com/mcp"],
+      "env": {
+        "ZYPE_API_KEY": "your_admin_api_key_here",
+        "ZYPE_MCP_MODE": "safe"
+      }
+    }
+  }
+}
